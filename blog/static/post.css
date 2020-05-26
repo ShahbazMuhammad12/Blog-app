@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+.head {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 30px;
+    border-bottom: 2px solid grey;
+}
+.col-md-7 {
+    margin-left: 260px;
+    border: 2px solid white;
+    
+    
+}
+
+.title {
+    color: white;
+    
+    font-size: 40px;
+    text-align: center;
+    margin: 30px;
+    border-bottom: 2px solid grey;
+    
+
+}
+.text {
+    text-align: left;
+    color: white;
+    font-size: 20px;
+
+}
+.date {
+    color: white;
+    font-size: 25px;
+}
+hr {
+    color: white;
+}
